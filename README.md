@@ -56,7 +56,7 @@ Enter the target IP address: 192.168.0.1337
 ## 🚀 How to Use
 
 ```bash
-git clone https://github.com/yourusername/MainMane.git
+git clone https://github.com/X3RX3SSEC/MainMane.git
 cd MainMane
 chmod +x mainmane.sh
 ./mainmane.sh
